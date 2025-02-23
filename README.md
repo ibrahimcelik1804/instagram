@@ -30,7 +30,7 @@
 
 <h2>🎨 Proje Görseli</h2>
 
-<img src="../instagram/src/assets/Images/gorsel.gif" alt="Proje Görseli"/>
+<img src="[../instagram/src/assets/Images/gorsel.gif](https://github.com/ibrahimcelik1804/instagram/blob/main/src/assets/Images/gorsel.gif)" alt="Proje Görseli"/>
 
 
 # instagram
